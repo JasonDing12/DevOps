@@ -1,0 +1,39 @@
+D:\code\gitCode\DevOps\DevOps\DevOps\bin\Debug\DevOps.exe.config
+D:\code\gitCode\DevOps\DevOps\DevOps\bin\Debug\DevOps.exe
+D:\code\gitCode\DevOps\DevOps\DevOps\bin\Debug\DevOps.pdb
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\MainWindow.g.cs
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\App.g.cs
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps_MarkupCompile.cache
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps_MarkupCompile.lref
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\MainWindow.baml
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.g.resources
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.Properties.Resources.resources
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.csproj.GenerateResource.cache
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.csproj.CoreCompileInputs.cache
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.exe
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.pdb
+D:\code\gitCode\DevOps\DevOps\DevOps\bin\Debug\CommonServiceLocator.dll
+D:\code\gitCode\DevOps\DevOps\DevOps\bin\Debug\System.ValueTuple.dll
+D:\code\gitCode\DevOps\DevOps\DevOps\bin\Debug\System.ValueTuple.xml
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.csproj.CopyComplete
+D:\code\gitCode\DevOps\DevOps\DevOps\obj\Debug\DevOps.csprojAssemblyReference.cache
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\DevOps.exe.config
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\DevOps.exe
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\DevOps.pdb
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\CommonServiceLocator.dll
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\System.ValueTuple.dll
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\System.Windows.Interactivity.dll
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\bin\Debug\System.ValueTuple.xml
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.csprojAssemblyReference.cache
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\MainWindow.g.cs
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\App.g.cs
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps_MarkupCompile.cache
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps_MarkupCompile.lref
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\MainWindow.baml
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.g.resources
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.Properties.Resources.resources
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.csproj.GenerateResource.cache
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.csproj.CoreCompileInputs.cache
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.csproj.CopyComplete
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.exe
+D:\code\gitCode\DevOps - 副本\DevOps\DevOps\obj\Debug\DevOps.pdb

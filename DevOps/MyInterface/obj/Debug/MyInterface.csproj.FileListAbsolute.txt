@@ -1,0 +1,5 @@
+D:\code\gitCode\DevOps\DevOps\MyInterface\bin\Debug\MyInterface.dll
+D:\code\gitCode\DevOps\DevOps\MyInterface\bin\Debug\MyInterface.pdb
+D:\code\gitCode\DevOps\DevOps\MyInterface\obj\Debug\MyInterface.csproj.CoreCompileInputs.cache
+D:\code\gitCode\DevOps\DevOps\MyInterface\obj\Debug\MyInterface.dll
+D:\code\gitCode\DevOps\DevOps\MyInterface\obj\Debug\MyInterface.pdb
